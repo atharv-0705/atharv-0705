@@ -13,7 +13,6 @@ My work spans AI Agents, Retrieval-Augmented Generation (RAG), FastAPI backends,
 I'm continuously improving my software engineering, problem-solving, and system design skills while contributing to open source and building projects that demonstrate practical AI.
 
 * 🌍  I'm based in India
-* 🖥️  See my Resume at [MyResume](http://https://docs.google.com/document/d/1JfFTd0OfQCG3m_U5emJx6tg1nK_SFPF9ClxOf9197bU/edit?usp=drive_link)
 * ✉️  You can contact me at [atharvgupta0705@gmail.com](mailto:atharvgupta0705@gmail.com)
 * 🚀  I'm currently working on [Mastering Data Structures & Algorithms](http://https://github.com/atharv-0705/Data-Structures-and-Algorithms-)
 * 🧠  I'm currently learning Advanced Agentic AI • Multi-Agent Systems • LLM Evaluation • MLOps • Data Analysis (Excel & Power BI) • Data Structures & Algorithms
