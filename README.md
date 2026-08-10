@@ -24,10 +24,6 @@ I'm continuously improving my software engineering, problem-solving, and system 
 </p>
 
 ### Socials
-
-### Socials
-
-### Socials
   
   <a href="https://www.linkedin.com/in/atharv-gupta-45a37b36a" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
